@@ -1,6 +1,6 @@
 {
   "name": "lazybind",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Create functions that accept the receiver as its first argument and `n` arguments after",
   "main": "index.js",
   "scripts": {

@@ -1,0 +1,14 @@
+{
+  "name": "lazybind",
+  "repo": "jwerle/lazybind",
+  "description": "Create functions that accept the receiver as its first argument and `n` arguments after",
+  "version": "0.1.0",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
